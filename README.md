@@ -4,6 +4,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 The dashboard helps HR teams identify factors affecting employee retention and supports data-driven decision-making.
 
 🎯 **Objective**
+
     The main objective of this project is to:
     •	Monitor employee attrition
     •	Analyze workforce trends
